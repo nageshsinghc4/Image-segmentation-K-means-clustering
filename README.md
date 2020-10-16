@@ -7,4 +7,5 @@ Image segmentation is the process of partitioning a digital image into multiple 
 
 For more information, checkout this article.
 
-https://towardsdatascience.com/introduction-to-image-segmentation-with-k-means-clustering-83fd0a9e2fc3
+
+https://www.theaidream.com/post/introduction-to-image-segmentation-with-k-means-clustering
